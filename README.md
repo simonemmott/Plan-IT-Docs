@@ -1,4 +1,4 @@
 # Plan-IT-Docs
 
-## [Wiki](wiki)
+## [Wiki](../../wiki)
 ## [Minimum Viable Product](MVP.md)
